@@ -1,2 +1,3 @@
-# Project 1
- The first born
+# Techdegree Project 1
+
+The first born
